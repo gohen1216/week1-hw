@@ -13,9 +13,9 @@ A company website that was built with html and css
 - [License](#License)
 
 ## Screenshots
-![screenshot-1](Main\assets\images\Capture3.PNG)
-​![screenshot-2](Main\assets\images\Capture5.PNG)
-​
+![screenshot-1](Main/assets/images/Capture3.PNG)
+​![screenshot-2](Main/assets/images/Capture5.PNG)
+
 ## Deployment
 ​[live link](https://github.com/gohen1216/week1-hw/tree/master/Documents/week1-hw-main)
 ## Contributing
